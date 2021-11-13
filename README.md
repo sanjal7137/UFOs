@@ -17,7 +17,7 @@ JavaScript, HTML, Visual Studio
 
 The focus of the project is to build a dynamic webpage that allows users to input filter criteria such as date, city, state, country and/or shape and apply it on UFO sightings information displayed as a table. Subsequently, the table will be updated to display sightings that match the criteria. The following image shows the final web page, before applying any filters:
 
-![image]https://github.com/sanjal7137/UFOs/blob/5b22b1ca30ff48128ad0d5c36e6ad9e2007e9490/Resources/ufo.png
+![image](https://github.com/sanjal7137/UFOs/blob/5b22b1ca30ff48128ad0d5c36e6ad9e2007e9490/Resources/ufo.png)
 
 ### Instructions for UFO Sightings filtering:
 
