@@ -21,7 +21,8 @@ The focus of the project is to build a dynamic webpage that allows users to inpu
 
   * filters can be manually cleared
   * the webpage can be refreshed by clicking on the "UFO Sightings"shown in below image
-  ![image](https://github.com/sanjal7137/UFOs/blob/5b22b1ca30ff48128ad0d5c36e6ad9e2007e9490/Resources/ufoclear.png)
+  
+  ![image](https://github.com/sanjal7137/UFOs/blob/959f1b95ba0ea537c1935e84e5640c5b02493b5c/Resources/ufoclear.png)
  
 
 ## Summary 
