@@ -23,14 +23,13 @@ The focus of the project is to build a dynamic webpage that allows users to inpu
 
 1- User will manually input parameters in the filter search table to filter the UFO sightings data table:
 
-![image](https://github.com/amberwnaushahi/UFOs/blob/main/resources/filter%20search%20table.png)
+![image](https://github.com/sanjal7137/UFOs/blob/a6a08c2b0e5936222375ee66c6a36c18e5814ff7/Resources/ufofilterdata.png)
 
 2- To clear filters and refresh the webpage to view all UFO data:
 
   * filters can be manually cleared
   * the webpage can be refreshed by clicking on the "UFO Sightings" in the navigation bar on the top left corner of the page
  
-![image](https://github.com/amberwnaushahi/UFOs/blob/main/resources/Navigation%20Bar%20-%20Top.png)
 
 ## Summary 
 
