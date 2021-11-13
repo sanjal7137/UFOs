@@ -13,7 +13,7 @@ The focus of the project is to build a dynamic webpage that allows users to inpu
 
 ### UFO Sightings filtering:
 
-1- User manually give input as a filter parameter and as per user input table display UFO data:
+1- User manually give input as a filter parameter and as per user input table display UFO data in below image enter city name is "ca" in filter and table display all UFO data with city name "ca":
 
 ![image](https://github.com/sanjal7137/UFOs/blob/a6a08c2b0e5936222375ee66c6a36c18e5814ff7/Resources/ufofilterdata.png)
 
